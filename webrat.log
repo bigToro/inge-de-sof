@@ -1,0 +1,43 @@
+# Logfile created on 2019-12-13 05:19:49 -0400 by logger.rb/66358
+D, [2019-12-13T05:19:49.038637 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.315148 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>"wdwa"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.384991 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.392188 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>"wdwa"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.402272 #13708] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.424866 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {"nombre"=>"juan"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:19:49.436088 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.447287 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"n", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.460022 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.473429 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"8", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.484709 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.495054 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"4", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.505285 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.520516 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"0", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:19:49.528671 #13708] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:19:49.538839 #13708] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"0", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:04.096812 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.226060 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>"wdwa"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:04.369114 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.383775 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>"wdwa"} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:04.564315 #3484] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.584211 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {"nombre"=>"juan"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:41:04.604772 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.619447 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"n", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:04.776633 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.787403 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"8", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:04.923893 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:04.936672 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"4", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:05.144618 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:05.162857 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"0", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:05.319787 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:05.334929 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"0", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:05.524352 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:05.534162 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"w", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:05.675040 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:05.686627 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"-8", "alto"=>"", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:05.819451 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:05.831758 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"-4", "ejeX"=>"", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:06.044574 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:06.057807 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"-1", "ejeY"=>"", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}
+D, [2019-12-13T05:41:06.209444 #3484] DEBUG -- : REQUESTING PAGE: GET /saludar with {} and HTTP headers {}
+D, [2019-12-13T05:41:06.219911 #3484] DEBUG -- : REQUESTING PAGE: GET /verTodo with {"ancho"=>"", "alto"=>"", "ejeX"=>"", "ejeY"=>"-1", "punto_cardinal"=>"", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/saludar"}

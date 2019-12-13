@@ -44,14 +44,16 @@
       <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span>
 
 
-        <h1> el tamanio de la cancha es (<%=@ancho%> , <%=@alto%>) <h1> <br>
-        <h1> la posicion del auto es (<%=@ejeX%> , <%=@ejeY%> , <%=@punto_cardinal%>) <h1>
-        <h1> las intrucciones fueron: (<%=@instrucciones%>)<h1>
-          <h1> la NUEVA posicion del auto es <%=simularTodo()%> <h1>
+      <% for auto in 0..@lista_autos.length.to_i %>
+          <h1> el tamanio de la cancha es (<%=@ancho%> , <%=@alto%>) <h1> <br>
+          <h1> la posicion del auto es (<%=@ejeX%> , <%=@ejeY%> , <%=@punto_cardinal%>) <h1>
+          <h2>las instrucciones fueron (<%=@instrucciones%>)</h2>
+          <h3>la nueva posicion es... <%=simularTodo()%><h3>
+     <% end %>
 
-      <input type="submit" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off" value='SI!'>
-
-
+     <form action="/saludador">
+            <input class="btn btn-primary" type="submit" value="volver">
+      </form>
 
     </div>
   </header>

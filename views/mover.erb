@@ -1,3 +1,7 @@
+<form action="/mostrar" method='get'>
+
+</form>
+
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -18,7 +22,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("https://omair.me/wp-content/uploads/edd/2018/09/100-Free-Gaming-Logo-Design-Templates_-Angry-Game-Controller.jpg");
+  background-image: url("https://assets.pcmag.com/media/images/580847-misty-ii-robot.jpg");
   min-height: 100%;
 }
 
@@ -28,6 +32,8 @@ body, html {
 </style>
 <body>
 
+
+
 <!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
@@ -35,24 +41,26 @@ body, html {
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
   <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">WORK</a>
   <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">PRICING</a>
-  <a <%=@instrucciones%></a>
+  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
 </nav>
 
 <!-- Header with full-height image -->
+<form action="/mostrar" method='get'>
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div class="w3-display-left w3-text-white" style="padding:48px">
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span>
 
+    <h3>Porfavor ingresa la direccion del movimiento<h3>
+      <h1>w. arriba</h1>
+      <h1>d. derecha</h1>
+      <h1>a. izquierda</h1>
+    <input type="text" name="direccion">
 
-      <h1>error<h1>
-      <p>parece que introduciste algun valor erroneo, porfavor ve atras y vuelve a intentarlo<p>
-
-      <input href="/saludar" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off" value='atras'>
-
-
+    <input type="submit" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off" value='enviar'>
 
   </div>
 </header>
+</form>
 
 </body>
 </html>
